@@ -126,7 +126,7 @@ function App() {
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center px-2 py-4 sm:px-4 sm:py-6">
       <div className="w-full max-w-2xl h-[90vh] bg-white rounded-xl shadow-md flex flex-col overflow-hidden">
         <div className="flex items-center justify-between p-4 border-b bg-gray-50">
-          <h1 className="text-lg font-semibold">Gemini Chat</h1>
+          <h1 className="text-lg font-semibold">ChatNova</h1>
           <select
             className="border rounded p-1 text-sm"
             value={selectedModel}
